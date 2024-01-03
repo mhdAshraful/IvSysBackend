@@ -1,5 +1,5 @@
-import { ar, fa, faker } from "@faker-js/faker";
-import { m } from "framer-motion";
+import { faker } from "@faker-js/faker";
+
 
 export default function DataFaker() {
   // emptyarrayof 800
